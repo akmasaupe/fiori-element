@@ -1,1 +1,3 @@
-## SAP Fiori Elements - Demo Projects
+## SAP Fiori Element - Demo Projects
+
+This is a repository for hosting SAP Fiori Element Demo Project
